@@ -10,15 +10,3 @@
 | [0020-valid-parentheses](./LeetCode/Easy/0020-valid-parentheses) | 🟢 Easy |
 | [0389-find-the-difference](./LeetCode/Easy/0389-find-the-difference) | 🟢 Easy |
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/duongn776/algorithms-leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/duongn776/algorithms-leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
-<!---LeetCode Topics End-->
